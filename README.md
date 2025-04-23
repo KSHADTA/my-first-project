@@ -4,10 +4,14 @@ Git + GitHub Summary Cheat Sheet 📄
 🔧 Setup
 
 git config --global user.name "Your Name"      # Set your name
+
+
 git config --global user.email "you@email.com" # Set your email
 
 🚀 Create a Project and Push to GitHub
+
 git init                            # Start Git in a folder
+
 git add .                           # Stage all files
 git commit -m "Initial commit"      # Commit changes
 git remote add origin <repo-url>    # Link to GitHub
